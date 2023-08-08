@@ -1,0 +1,7 @@
+.vscode/
+QC/
+si/
+.svn
+*.gz
+*.bak
+*.tmp
